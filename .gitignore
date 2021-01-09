@@ -1,2 +1,2 @@
-truffle-config.js
-./client/node_modules
+node_modules
+.gitignore
